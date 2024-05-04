@@ -1,0 +1,30 @@
+﻿<<Đây là dòng làm dấu Unicode, không được sửa hoặc xoá dòng này>>
+d1||1 viên khi đau cách nhau tối thiểu 6 giờ
+m0||trong mổ
+m1||60 giọt/phút
+m2||pha Glucose 5%, mỗi chai 2 ống
+m3||1 lọ/lần 9h - 15h
+m4||2 viên/lần 9h - 15h
+m5||1 viên/lần 9h - 15h
+t1||ngày 2 lần, mỗi lần 1 viên chia Sáng - Tối sau ăn
+t2||ngày 2 lần, mỗi lần 2 viên chia Sáng - Tối
+t3||ngày 2 lần, mỗi lần 1 gói chia Sáng - Chiều trước ăn 30 phút
+t4||ngày 1 viên sau ăn Sáng
+t5||Bóc vỏ lấy dịch trong nang cho bé uống 2 giọt vào buổi Sáng
+t6||trực tiếp lên vết mổ ngày 3-4 lần
+t7||vết mổ/ vết khâu tầng sinh môn
+t8||Pha nước tắm cho em bé hằng ngày theo hướng dẫn
+t9||ngày 3 lần, mỗi lần 1 gói chia Sáng - Chiều - Tối trước khi cho con bú
+m11||60 giọt/phút sau truyền Glucose 5%
+m33||pha kháng sinh tiêm, mỗi lọ 2 ống
+hovv||BSCKI. Vương Văn Hồ
+smlt||Sau mổ lấy thai
+baonh||TS. BSCKII. Nguyễn Huy Bạo
+luunv||Ths. Bs. Nguyễn Văn Lựu
+lyttt||BSCKII. Tô Thị Thiên Lý
+thopt||BSCKI. Phạm Tiến Thọ
+anhnt3||BSCKII. Nguyễn Tuấn Anh
+dungdt||BSCKI. Đặng Thị Dung
+dunght||BSCKI. Hoàng Tiến Dũng
+lanlth||BSCKI. Lê Thanh Hương Lan
+huongttd||BSCKI. Tôn Thị Diệu Hương
